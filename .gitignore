@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+server/linux_server
+bot/linux_bot
